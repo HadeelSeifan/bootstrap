@@ -22,7 +22,7 @@
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
-        background: linear-gradient(to bottom, rgba(228, 156, 24, 0.8) 0%, rgba(70, 66, 15, 0.8) 100%),url(image/hh.jpg);
+        background: linear-gradient(to bottom, rgba(228, 156, 24, 0.8) 0%, rgba(70, 66, 15, 0.8) 100%),url(../image/hh.jpg);
     }
     .navbar-brand{
         font-size: 30px;
